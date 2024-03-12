@@ -6,3 +6,13 @@ _let's learn readme_
 -list one  
   -list2  
     -list 3  
+
+    1. Item 1
+   - Sub-item 1
+     - Sub-sub-item 1
+     - Sub-sub-item 2
+   - Sub-item 2
+  2. Item 2
+   - Sub-item A
+   - Sub-item B
+
