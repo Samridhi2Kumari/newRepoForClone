@@ -16,3 +16,9 @@ _let's learn readme_
    - Sub-item A
    - Sub-item B
 
+
+-item 1
+-item 2
+  -item 3
+  -item 4
+
